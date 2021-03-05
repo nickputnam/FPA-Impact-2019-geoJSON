@@ -1,0 +1,425 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Columbia": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.076559,
+          4.597167
+        ],
+        "type": "Point"
+      },
+      "id": "0031a601b75ff2f35529cb8141f21c10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Florida": "3 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.282163,
+          30.438114
+        ],
+        "type": "Point"
+      },
+      "id": "011674da4d48ac629551aaa794b7df7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Indiana": "33 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.162642,
+          39.768603
+        ],
+        "type": "Point"
+      },
+      "id": "1a96342cb21a94090f14eb10dfc0ce86"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "South Carolina": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.033111,
+          34.000279
+        ],
+        "type": "Point"
+      },
+      "id": "1b31a12bb1cdba2d1bdff5d71e76583c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Oklahoma": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.503328,
+          35.492209
+        ],
+        "type": "Point"
+      },
+      "id": "26ff04ab1fcdff639fb4486cd7d2addc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "West Virginia": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -81.612298,
+          38.336267
+        ],
+        "type": "Point"
+      },
+      "id": "27266ecee4db0837a94aabdfa96d4d62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Montana": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.018414,
+          46.585751
+        ],
+        "type": "Point"
+      },
+      "id": "2c70014f489408f147dc4abb0ee4f22d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Texas": "219 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -97.740356,
+          30.27465
+        ],
+        "type": "Point"
+      },
+      "id": "2fca7f4fd18f6fe1bb142c48a5219eeb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "North Carolina": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.639096,
+          35.780385
+        ],
+        "type": "Point"
+      },
+      "id": "32f1f707a280fc303dec3be049ad6af9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Louisiana": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -91.187371,
+          30.457086
+        ],
+        "type": "Point"
+      },
+      "id": "4bc2aaf7589a93c8ce8aebb6733be141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Michigan": "7 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.555485,
+          42.733647
+        ],
+        "type": "Point"
+      },
+      "id": "4d2b65ba56aba5dd0cf002d7669a714c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Virginia": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.433578,
+          37.538798
+        ],
+        "type": "Point"
+      },
+      "id": "4f1ca73840d833897822b85e14f4166c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Iowa": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.606724,
+          41.590609
+        ],
+        "type": "Point"
+      },
+      "id": "59167d1612e59758c20ae51d4f84c529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Pennsylvania": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.88373,
+          40.264409
+        ],
+        "type": "Point"
+      },
+      "id": "6a2293d8942a221dea8e2cb0da1fafdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Japan": "5 students"
+      },
+      "geometry": {
+        "coordinates": [
+          139.69177,
+          35.689207
+        ],
+        "type": "Point"
+      },
+      "id": "6c233add4f4191da45d04ca94761b979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Missouri": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.172968,
+          38.579192
+        ],
+        "type": "Point"
+      },
+      "id": "89083a7482da6a80fbbbe06858ade280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Wisconsin": "4,021 Students"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.384093,
+          43.074734
+        ],
+        "type": "Point"
+      },
+      "id": "934d647c32a1f806dc9d71e834ece989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Washington": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.904852,
+          47.035764
+        ],
+        "type": "Point"
+      },
+      "id": "9b0e63f3bdd967ce463d2f5b1e9c91f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Arkansas": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -92.28918,
+          34.746598
+        ],
+        "type": "Point"
+      },
+      "id": "9f53443b38a1fe2edefa45a31483e6ac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Massachusetts": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.063825,
+          42.358692
+        ],
+        "type": "Point"
+      },
+      "id": "a125a84037f9c392219b489cbe5e1ec1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Illinois": "11 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -89.654906,
+          39.798437
+        ],
+        "type": "Point"
+      },
+      "id": "ad39bd6c78d7c796638a22bc32e6ccf3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Ohio": "10 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.99909,
+          39.961319
+        ],
+        "type": "Point"
+      },
+      "id": "aee798f575dea599b4f140fa6281f611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kentucky": "7 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.875394,
+          38.186719
+        ],
+        "type": "Point"
+      },
+      "id": "b9a4f4de6d8d19d89380bc2b5df5cea5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tennessee": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.784238,
+          36.16582
+        ],
+        "type": "Point"
+      },
+      "id": "c3744a255d9551ead0e207b13d202a39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "California": "6 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -121.493225,
+          38.576555
+        ],
+        "type": "Point"
+      },
+      "id": "c95a95863ac70ffbd9a1c3c797b2798d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Arizona": "1 Student"
+      },
+      "geometry": {
+        "coordinates": [
+          -112.097219,
+          33.448125
+        ],
+        "type": "Point"
+      },
+      "id": "d6502ed36e6b44ba2d7e20d61a8021a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "France": "2 students"
+      },
+      "geometry": {
+        "coordinates": [
+          2.316038,
+          48.861675
+        ],
+        "type": "Point"
+      },
+      "id": "dc6c9ab1e179751c8eb57e0034eb4bfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Alabama": "1 student"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.300581,
+          32.37772
+        ],
+        "type": "Point"
+      },
+      "id": "dc842e01b1bc91cbfe1dd5ec731e3323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Georgia": "3 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.388109,
+          33.749051
+        ],
+        "type": "Point"
+      },
+      "id": "f07c9f2ec9d421a8067a458436f966c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Minnesota": "6 students"
+      },
+      "geometry": {
+        "coordinates": [
+          -93.102223,
+          44.955187
+        ],
+        "type": "Point"
+      },
+      "id": "f09562dc53bf65ef60eb6f23807d3ae1"
+    }
+  ],
+  "type": "FeatureCollection"
+}
